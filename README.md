@@ -1,4 +1,3 @@
-
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
