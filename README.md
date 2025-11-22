@@ -1,4 +1,4 @@
-### study-of-basic-gates
+<img width="802" height="427" alt="image" src="https://github.com/user-attachments/assets/9c394c27-5f22-4a9c-8474-0fd6386f2f23" />### study-of-basic-gates
 
 **AIM:** 
 
@@ -94,7 +94,9 @@ endmodule
 <img width="1920" height="1080" alt="Screenshot 2025-11-21 062242" src="https://github.com/user-attachments/assets/692f0acf-38c3-4477-9699-7ee21adfbfc7" />
 
 **RTL**
-<img width="1920" height="1080" alt="Screenshot 2025-11-21 062336" src="https://github.com/user-attachments/assets/46720a66-06a8-43ae-930b-f125683cc910" />
+<img width="802" height="427" alt="image" src="https://github.com/user-attachments/assets/378b9213-ab8f-45a7-8f68-c0a79bc85d94" />
+
+
 
 
 **Result:**
