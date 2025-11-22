@@ -83,6 +83,9 @@ endmodule
  Developed by: RegisterNumber: 25016814
  
 **Logic symbol & Truthtable**
+
+
+
 <img width="343" height="666" alt="image" src="https://github.com/user-attachments/assets/ef604399-249c-4307-9a22-1da1c0fc9342" />
 
 
