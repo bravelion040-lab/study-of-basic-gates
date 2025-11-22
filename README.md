@@ -89,10 +89,29 @@ endmodule
 
 
 **RTL realization Output:** 
+
+
+
+
 <img width="1920" height="1080" alt="Screenshot 2025-11-21 062242" src="https://github.com/user-attachments/assets/692f0acf-38c3-4477-9699-7ee21adfbfc7" />
 
+
+
+
+
 **RTL**
+
+
+
+
+
+
+
+
 <img width="802" height="427" alt="image" src="https://github.com/user-attachments/assets/378b9213-ab8f-45a7-8f68-c0a79bc85d94" />
+
+
+
 
 
 
